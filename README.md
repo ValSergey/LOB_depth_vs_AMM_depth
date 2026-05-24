@@ -2,3 +2,4 @@
 Build LOB depth and AMM depth
 
 A study of limit orders and automated market makers as part of the article “Decentralized Exchanges: The Foundation for Regulating Cryptoassets.”
+![Alt text](images/LOBvsAMM.png "AMM Fit to Both Sides of LOB: P(q) = Ry / (Rx - q)")
